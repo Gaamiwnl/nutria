@@ -22,7 +22,6 @@
     "zod": "^4.6.5"
   },
   "devDependencies": {
-    "nodemon": "^3.1.14",
-    "prima": "^0.0.1"
+    "nodemon": "^3.1.14"
   }
 }
